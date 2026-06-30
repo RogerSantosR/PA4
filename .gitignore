@@ -1,0 +1,23 @@
+# Dependencias
+**/node_modules/
+
+# Builds
+**/dist/
+**/.next/
+**/out/
+
+# Variables de entorno (NO subir secretos). Sí se sube .env.example
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Logs y temporales
+**/*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Archivos locales / de la sesion (no forman parte del entregable)
+.claude/
+*.pdf
+Screenshot_*.png

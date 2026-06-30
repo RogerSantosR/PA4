@@ -1,0 +1,28 @@
+{
+  "name": "mock-api",
+  "version": "1.0.0",
+  "description": "API REST mock para un sistema de inscripcion de cursos universitarios (Usuario 4)",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "mock",
+    "api",
+    "express",
+    "enrollment",
+    "courses"
+  ],
+  "author": "Usuario 4",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
