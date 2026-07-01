@@ -222,10 +222,9 @@ Base URL: `http://localhost:4000/api`
 
 - [ ] Panel de administración: gestión de cursos <img width="1366" height="597" alt="PANEL DE ADMINISTRACION" src="https://github.com/user-attachments/assets/0d2826cc-6814-4c62-94fd-740cac61ab74" />
 
-- [ ] Panel de administración: inscripciones por usuario
-- [ ] Landing pública (Next.js)
-- [ ] Catálogo / detalle público (Next.js)
-- [ ] Build de producción sin errores
+- [ ] Catálogo / detalle público (Next.js) <img width="1364" height="603" alt="CATÁLOGO DETALLE PÚBLICO" src="https://github.com/user-attachments/assets/5391c7ce-83db-4751-b1b4-8ddcd42f18ca" />
+
+
 
 ---
 
