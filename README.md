@@ -14,10 +14,10 @@ entorno documentadas, scripts de ejecución y una estructura de carpetas ordenad
 
 | # | Integrante | Rol / Módulo principal |
 |---|------------|------------------------|
-| 1 | _Nombre Apellido_ | Autenticación y manejo de sesión (React) |
-| 2 | _Nombre Apellido_ | Portal del estudiante y diseño (React) |
-| 3 | _Nombre Apellido_ | Módulo público (Next.js) |
-| 4 | _Nombre Apellido_ | API REST, módulo de administración y documentación |
+| 1 | _Roger Angel Santos Ramos_ | Autenticación y manejo de sesión (React) |
+| 2 | _Renato Marmanillo Santi_ | Portal del estudiante y diseño (React) |
+| 3 | _Esli Rodrigo Julca Luis_ | Módulo público (Next.js) |
+| 4 | _Alexis Sebastian Quispe Ramos_ | API REST, módulo de administración y documentación |
 
 ---
 
@@ -228,10 +228,10 @@ Base URL: `http://localhost:4000/api`
 
 | Integrante | Módulo | Aportes principales |
 |------------|--------|---------------------|
-| Usuario 1 | Autenticación y sesión (React) | Login, `AuthContext`, almacenamiento de token, interceptores HTTP, rutas protegidas (incl. rol), logout |
-| Usuario 2 | Portal, diseño y admin (React) | Catálogo, detalle, dashboard, módulo admin (CRUD de cursos, cupos, inscripciones por usuario), modales, componentes reutilizables, tema monocromo |
-| Usuario 3 | Módulo público (Next.js) | Landing con imagen de fondo, catálogo y detalle dinámico, estrategias de renderizado, componentes públicos |
-| Usuario 4 | API y producción | API REST mock (JWT, roles, CRUD admin, CORS), variables de entorno, scripts, documentación y README |
+| Roger Angel Santos Ramos | Autenticación y sesión (React) | Login, `AuthContext`, almacenamiento de token, interceptores HTTP, rutas protegidas (incl. rol), logout |
+| Renato Marmanillo Santi | Portal, diseño y admin (React) | Catálogo, detalle, dashboard, módulo admin (CRUD de cursos, cupos, inscripciones por usuario), modales, componentes reutilizables, tema monocromo |
+| Esli Rodrigo Julca Luis | Módulo público (Next.js) | Landing con imagen de fondo, catálogo y detalle dinámico, estrategias de renderizado, componentes públicos |
+| Alexis Sebastian Quispe Ramos | API y producción | API REST mock (JWT, roles, CRUD admin, CORS), variables de entorno, scripts, documentación y README |
 
 > El detalle de archivos por integrante y el procedimiento de publicación en GitHub está en
 > [`GUIA_GIT_USUARIOS.md`](./GUIA_GIT_USUARIOS.md).
