@@ -226,12 +226,12 @@ Base URL: `http://localhost:4000/api`
 
 ## Matriz de distribución de aportes
 
-| Integrante | Módulo | Aportes principales |
-|------------|--------|---------------------|
-| Usuario 1 | Autenticación y sesión (React) | Login, `AuthContext`, almacenamiento de token, interceptores HTTP, rutas protegidas (incl. rol), logout |
-| Usuario 2 | Portal, diseño y admin (React) | Catálogo, detalle, dashboard, módulo admin (CRUD de cursos, cupos, inscripciones por usuario), modales, componentes reutilizables, tema monocromo |
-| Usuario 3 | Módulo público (Next.js) | Landing con imagen de fondo, catálogo y detalle dinámico, estrategias de renderizado, componentes públicos |
-| Usuario 4 | API y producción | API REST mock (JWT, roles, CRUD admin, CORS), variables de entorno, scripts, documentación y README |
+| # | Integrante | Rol / Módulo principal |
+|---|------------|------------------------|
+| 1 | Roger Angel Santos Ramos | Autenticación y manejo de sesión (React) |
+| 2 | Renato Marmanillo Santi | Portal del estudiante y diseño (React) |
+| 3 | Esli Rodrigo Julca Luis | Módulo público (Next.js) |
+| 4 | Alexis Sebastian Quispe Ramos | API REST, módulo de administración y documentación |
 
 > El detalle de archivos por integrante y el procedimiento de publicación en GitHub está en
 > [`GUIA_GIT_USUARIOS.md`](./GUIA_GIT_USUARIOS.md).
