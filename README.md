@@ -23,7 +23,7 @@ entorno documentadas, scripts de ejecución y una estructura de carpetas ordenad
 
 ## Video de sustentación
 
-**YouTube:** _Pegar aquí el enlace al video de sustentación (modo oculto o público)._
+**YouTube:** _https://youtu.be/_XrN4P20JRQ_
 
 > El video debe mostrar a los integrantes con las cámaras prendidas explicando el trabajo realizado.
 
@@ -212,11 +212,16 @@ Base URL: `http://localhost:4000/api`
 
 > Agregar aquí las capturas de las vistas principales y, de ser posible, del build de producción.
 
-- [ ] Login del portal
-- [ ] Catálogo de cursos (React)
-- [ ] Detalle de curso e inscripción
-- [ ] Dashboard del estudiante (vista protegida)
-- [ ] Panel de administración: gestión de cursos
+- [ ] Login del portal <img width="1366" height="600" alt="LOGIN" src="https://github.com/user-attachments/assets/2c972f54-1b61-462f-aa12-3bec282dcec0" />
+
+- [ ] Catálogo de cursos (React) <img width="1366" height="600" alt="CATÁLOGO" src="https://github.com/user-attachments/assets/7b3edea9-c3e4-4afd-9be2-58d32d022f91" />
+
+- [ ] Detalle de curso e inscripción <img width="1364" height="600" alt="DETALLE DE CURSO" src="https://github.com/user-attachments/assets/ff39b2cf-39ab-4414-a6e4-a54c8a50a16a" />
+
+- [ ] Dashboard del estudiante (vista protegida) <img width="1366" height="602" alt="DASHBOARD" src="https://github.com/user-attachments/assets/0267b132-b5cc-451b-ae93-d46f337fcbd5" />
+
+- [ ] Panel de administración: gestión de cursos <img width="1366" height="597" alt="PANEL DE ADMINISTRACION" src="https://github.com/user-attachments/assets/0d2826cc-6814-4c62-94fd-740cac61ab74" />
+
 - [ ] Panel de administración: inscripciones por usuario
 - [ ] Landing pública (Next.js)
 - [ ] Catálogo / detalle público (Next.js)
